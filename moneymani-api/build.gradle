@@ -1,7 +1,7 @@
 apply plugin: 'org.springframework.boot'
 
 bootRun {
-	main = 'com.moneymani.api.MoneymaniWebApplication'
+	main = 'com.moneymani.api.MoneymaniApiApplication'
 	optimizedLaunch = false
 	sourceResources sourceSets.main
 }
