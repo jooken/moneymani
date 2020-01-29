@@ -1,0 +1,3 @@
+rootProject.name = 'moneymani'
+
+include 'moneymani-core', 'moneymani-api'
